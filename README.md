@@ -10,6 +10,10 @@ PJSIP is a free and open source multimedia communication library written in C la
 - OpenSSL support provided by the [OpenSSL-for-iPhone](https://github.com/x2on/OpenSSL-for-iPhone) build script and the [OpenSSL-Universal](https://github.com/krzak/OpenSSL.git) pod
 - Video support provided by the [OpenH264](https://github.com/cisco/openh264)
 
+## Dependencies
+
+  brew install nasm
+
 ## Installation
 
 Add the following line to your `Podfile` and run `pod install` command.
